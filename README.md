@@ -19,7 +19,6 @@ A modern, responsive **Personal Finance Tracker** built using **HTML, CSS, and V
 - [Features](#-features)
 - [Tech Stack](#-tech-stack)
 - [Project Structure](#-project-structure)
-- [Screenshots](#-screenshots)
 - [Installation](#-installation)
 - [Usage](#-usage)
 - [Application Workflow](#-application-workflow)
@@ -148,38 +147,6 @@ FinTrack-Pro/
 ├── README.md
 └── LICENSE
 ```
-
----
-
-# 📸 Screenshots
-
-## Dashboard
-
-<img src="screenshots/dashboard.png" width="100%">
-
----
-
-## Add Transaction
-
-<img src="screenshots/add-transaction.png" width="100%">
-
----
-
-## Settings
-
-<img src="screenshots/settings.png" width="100%">
-
----
-
-## Dark Mode
-
-<img src="screenshots/dark-mode.png" width="100%">
-
----
-
-## Mobile View
-
-<img src="screenshots/mobile.png" width="40%">
 
 ---
 
@@ -420,15 +387,6 @@ git push origin feature/AmazingFeature
 ```
 
 5. Open a Pull Request
-
----
-
-# 👨‍💻 Author
-
-**Saurabh Kulavi**
-
-- 💼 LinkedIn: https://linkedin.com/in/your-linkedin
-- 🐙 GitHub: https://github.com/your-github
 
 ---
 
